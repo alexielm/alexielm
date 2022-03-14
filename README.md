@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Alexiel Mejias
-- 👀 I’m a software developer with a passion for robotics and videography so I try to combine them both when possible.
-- 🌱 I’m currently typing this message.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+• Who am I as a professional: <http://nexus-solutions.org/resume/>
 
-<!---
-alexielm/alexielm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• Who am I from my heart: Engineer on the DNA; as a little kid I looked how the remote controlled car worked instead of running it down the lawn. My passion for computers, smart devices and automation started since I was very young. 
+
+Always finding a way to put a computer or a micro-controller into "it" so it works better. This had become my job and my biggest hobby. Today I can claim I heavily help taking a 7 employees startup to a multi-billions enterprise. Wearing many hats form back-end to front-end development to software architect, team leader to Research Software Engineer.
