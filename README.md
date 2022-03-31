@@ -6,5 +6,6 @@ Always finding a way to put a computer or a micro-controller into "**it**" so it
 
 You can also find my personal profile at: [LinkedIn](https://www.linkedin.com/in/alexiel-mejias-106782174/)
 
-Or just take a quick glance into my most relevant [![Most relevant technical skills historical thrend](https://raw.githubusercontent.com/alexielm/alexielm/main/Alexiel%20Mejias%20-%20Most%20Relevant%20Technical%20Skills%20-%20Historical%20Trend.png)](http://nexus-solutions.org/resume/?page=skillsChart):
+Or just take a quick glance into my most relevant skills
+[![Most relevant technical skills historical thrend](https://raw.githubusercontent.com/alexielm/alexielm/main/Alexiel%20Mejias%20-%20Most%20Relevant%20Technical%20Skills%20-%20Historical%20Trend.png)](http://nexus-solutions.org/resume/?page=skillsChart):
  
