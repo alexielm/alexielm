@@ -1,11 +1,31 @@
-• Who am I as a professional? Check my [interactive resume builder](http://nexus-solutions.org/resume/)
+👋 Hi, I’m Alexiel Mejias
 
-• Who am I from my heart: Engineer on the DNA; as a little kid I looked how the remote controlled car worked instead of running it down the lawn. My passion for computers, smart devices and automation started since I was very young. 
+Who I am as a professional
+I build solutions end-to-end — from architecture and backend services to front-end experiences. You can explore my interactive Resume Builder
+ for a detailed view of my career and skills.
 
-Always finding a way to put a computer or a micro-controller into "**it**" so it works better. This had become my job and my biggest hobby. Today I can claim that I have helped a start-up grown into a [multi-billion-dollar enterprise](https://rldatix.com/). Wearing many hats form Back-End to Front-End development to Software Architect, Team Leader to Research Software Engineer.
+Who I am at heart
+Engineer in my DNA. As a kid, I was the one opening a remote-controlled car to see how it worked rather than driving it on the lawn. That curiosity turned into a lifelong passion for computers, smart devices, and automation.
 
-You can find my professional profile at: [LinkedIn](https://www.linkedin.com/in/alexiel-mejias-106782174/)
+I’m always looking for ways to put a computer or micro-controller into “it” so that it works smarter, faster, or better. That passion became both my job and my biggest hobby.
 
-Or you could just take a quick glance into my most relevant skills:
-[![Most relevant technical skills historical thrend](https://raw.githubusercontent.com/alexielm/alexielm/main/Alexiel%20Mejias%20-%20Most%20Relevant%20Technical%20Skills%20-%20Historical%20Trend.png)](http://nexus-solutions.org/resume/?page=skillsChart):
- 
+Over the years, I’ve helped a start-up grow into a multi-billion-dollar enterprise — wearing many hats:
+
+Backend and Frontend Developer
+
+Software Architect
+
+Team Leader
+
+Research Software Engineer
+
+Where to find me
+
+LinkedIn
+
+Resume Builder
+
+GitHub Repos
+
+Skills at a glance
+C#, .NET, React, Node.js, SQL, Cloud Services (AWS & Azure), APIs & Integrations, DevOps practices, and more.
