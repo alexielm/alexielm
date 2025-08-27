@@ -1,4 +1,4 @@
-👋 Hi, I’m Alexiel Mejias
+Hi, I’m Alexiel Mejias
 
 Who I am as a professional
 I build solutions end-to-end — from architecture and backend services to front-end experiences. You can explore my interactive Resume Builder
