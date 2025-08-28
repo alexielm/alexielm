@@ -18,7 +18,7 @@ Over the years, I’ve helped a start-up grow into a multi-billion-dollar enterp
 **Where to find me**
 
 * [LinkedIn](https://www.linkedin.com/in/alexiel-mejias-106782174/)
-* [Resume Builder](https://nexus-solutions.org/resume/)
+* [Resume Builder](http://alexiel.homedns.org/resume/)
 * [GitHub Repos](https://github.com/alexielm)
 
 **Skills at a glance**
