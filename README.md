@@ -1,7 +1,7 @@
 #### Hi, I’m Alexiel Mejias
 
 **Who I am as a professional**
-I build solutions end-to-end — from architecture and backend services to front-end experiences. You can explore my interactive [Resume Builder](https://nexus-solutions.org/resume/) for a detailed view of my career and skills.
+I build solutions end-to-end — from architecture and backend services to front-end experiences. You can explore my interactive [Resume Builder](http://alexiel.homedns.org/resume/) for a detailed view of my career and skills.
 
 **Who I am at heart**
 Engineer in my DNA. As a kid, I was the one opening a remote-controlled car to see how it worked rather than driving it on the lawn. That curiosity turned into a lifelong passion for computers, smart devices, and automation.
